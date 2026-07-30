@@ -1,0 +1,37 @@
+name: Auto Update Papers List in README
+
+on:
+  push:
+    paths:
+      - 'papers/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-papers:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pypdf || true
+
+      - name: Update README with papers
+        run: |
+          python scripts/update_papers.py
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: auto update papers list in README"
+          file_pattern: "README.md"
