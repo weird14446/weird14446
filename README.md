@@ -29,7 +29,9 @@
 ## 📄 Papers & Reading List
 
 <!-- PAPERS_LIST_START -->
-*No papers uploaded yet.*
+| Paper Title | Link |
+| :--- | :---: |
+| **hardware design 01** | [📄 Download PDF](./papers/hardware_design_01.pdf) |
 <!-- PAPERS_LIST_END -->
 
 ---
