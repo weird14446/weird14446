@@ -34,14 +34,5 @@
 
 ---
 
-##  Personal Essays & Deep-Dives (아티클)
-
-공부한 학문적 내용을 자신만의 언어와 수식으로 쉽게 풀어낸 아티클 모음입니다.
-
-1. **[Transformer의 Self-Attention을 선형대수학 시각으로 바라보기](#)**
-2. **[Stochastic Gradient Descent(SGD)가 Local Minima를 탈출하는 수학적 원리](#)**
-
----
-
 ## 📬 Connect & Links
 - **Email**: `ii3289857@gmail.com`
