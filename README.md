@@ -26,7 +26,7 @@
 
 ---
 
-## 📄 Papers & Reading List
+## 📄 Papers
 
 <!-- PAPERS_LIST_START -->
 | Paper Title | Link |
