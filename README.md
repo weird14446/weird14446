@@ -33,6 +33,7 @@
 | :--- | :---: |
 | **hardware design 01** | [📄 Download PDF](./papers/hardware_design_01.pdf) |
 | **titanic 데이터셋 생존 예측 보고서** | [📄 Download PDF](./papers/titanic-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B-%EC%83%9D%EC%A1%B4-%EC%98%88%EC%B8%A1-%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf) |
+| **다층 신경망을 이용한 SDSS 천체 분류** | [📄 Download PDF](./papers/%EB%8B%A4%EC%B8%B5-%EC%8B%A0%EA%B2%BD%EB%A7%9D%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-SDSS-%EC%B2%9C%EC%B2%B4-%EB%B6%84%EB%A5%98.pdf) |
 <!-- PAPERS_LIST_END -->
 
 ---
